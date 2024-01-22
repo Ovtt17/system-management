@@ -6,7 +6,7 @@ This project is an application that uses Spring Boot for the BackEnd and a user 
 
 ## Database Setup
 
-To use the database, simply create the database using the system command `CREATE DATABASE`. **Spring Data JPA** will take care of mapping the necessary classes for the database to function.
+To use the database, simply create the database using the system command `CREATE DATABASE SYSTEM`. **Spring Data JPA** will take care of mapping the necessary classes for the database to function.
 
 ## Installation
 
